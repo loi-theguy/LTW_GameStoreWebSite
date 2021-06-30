@@ -7,3 +7,4 @@ Web được tạo bởi các thành viên trong nhóm:
 - Trần Quang Nhật - 2001180229 
 - Lưu ý khi sử dụng: Set Default.aspx as start up page trước khi build web và chỉnh tên database cho phù hợp trong webconfig trước khi build web
 
+Demo link: https://youtu.be/7CJTuJ8d8bw
