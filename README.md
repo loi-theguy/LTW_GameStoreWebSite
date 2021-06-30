@@ -1,4 +1,6 @@
 # GameStoreWebSite
+Đồ án môn lập trình web
+
 Web được tạo bởi các thành viên trong nhóm:
 - Trần Hữu Lợi - 2001181186
 - Tô Ngọc Long - 2001181195
